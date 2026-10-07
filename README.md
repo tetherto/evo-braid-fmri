@@ -29,10 +29,10 @@ Edit the data paths at the top of the script (`DEFAULT_CONFIG`) before running. 
 ## Checkpoints
 
 
-| File | Use | SHA-256 |
-|---|---|---|
-| `checkpoint.ckpt` | Selected checkpoint; all results and figures in the paper | `7f5d1634553356903f923f38b5f21a2e13e96a6fc26e893e80e77386a0efbfa0` |
-| `last_checkpoint.ckpt` | Last checkpoint| `30dc1283d474ccca2703a3590b659f877f08e006d2763dc909a536d3d89a085c` |
+| File | Use | 
+|---|---|
+| `checkpoint.ckpt` | Selected checkpoint; all results and figures in the paper |
+| `last_checkpoint.ckpt` | Last checkpoint|
 
 Both files are standard PyTorch Lightning checkpoints with the model weights, hyperparameters and training metadata; the optimizer state was removed to keep them under GitHub's file-size limit, so they load for evaluation (`LitMultitaskMAEContrastive.load_from_checkpoint`) but cannot resume training. They are stored with Git LFS: after cloning, run `git lfs pull` if the files are only small pointers.
 
