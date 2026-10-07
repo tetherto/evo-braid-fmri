@@ -1,0 +1,281 @@
+semantic_cluster,first_dataset_name,n_unique_stimuli,fraction_within_cluster,cluster_name
+0,BMD,3,0.01195219123505976,Mountain landscapes
+0,BOLD5000,1,0.00398406374501992,Mountain landscapes
+0,GOD,0,0.0,Mountain landscapes
+0,NOD,238,0.9482071713147411,Mountain landscapes
+0,NSD,8,0.03187250996015936,Mountain landscapes
+0,THINGS,1,0.00398406374501992,Mountain landscapes
+0,deeprecon,0,0.0,Mountain landscapes
+1,BMD,0,0.0,Bathrooms & washrooms
+1,BOLD5000,7,0.02108433734939759,Bathrooms & washrooms
+1,GOD,1,0.0030120481927710845,Bathrooms & washrooms
+1,NOD,215,0.6475903614457831,Bathrooms & washrooms
+1,NSD,103,0.3102409638554217,Bathrooms & washrooms
+1,THINGS,5,0.015060240963855422,Bathrooms & washrooms
+1,deeprecon,1,0.0030120481927710845,Bathrooms & washrooms
+2,BMD,17,0.06563706563706563,Dogs
+2,BOLD5000,8,0.03088803088803089,Dogs
+2,GOD,0,0.0,Dogs
+2,NOD,183,0.7065637065637066,Dogs
+2,NSD,45,0.17374517374517376,Dogs
+2,THINGS,4,0.015444015444015444,Dogs
+2,deeprecon,2,0.007722007722007722,Dogs
+3,BMD,0,0.0,Clocks & timers
+3,BOLD5000,0,0.0,Clocks & timers
+3,GOD,0,0.0,Clocks & timers
+3,NOD,204,0.9855072463768116,Clocks & timers
+3,NSD,1,0.004830917874396135,Clocks & timers
+3,THINGS,2,0.00966183574879227,Clocks & timers
+3,deeprecon,0,0.0,Clocks & timers
+4,BMD,3,0.00974025974025974,Sharks & marine life
+4,BOLD5000,0,0.0,Sharks & marine life
+4,GOD,2,0.006493506493506494,Sharks & marine life
+4,NOD,302,0.9805194805194806,Sharks & marine life
+4,NSD,0,0.0,Sharks & marine life
+4,THINGS,1,0.003246753246753247,Sharks & marine life
+4,deeprecon,0,0.0,Sharks & marine life
+5,BMD,0,0.0,Wooden furniture
+5,BOLD5000,0,0.0,Wooden furniture
+5,GOD,0,0.0,Wooden furniture
+5,NOD,293,0.9575163398692811,Wooden furniture
+5,NSD,3,0.00980392156862745,Wooden furniture
+5,THINGS,9,0.029411764705882353,Wooden furniture
+5,deeprecon,1,0.0032679738562091504,Wooden furniture
+6,BMD,5,0.013404825737265416,Soups & hot beverages
+6,BOLD5000,5,0.013404825737265416,Soups & hot beverages
+6,GOD,0,0.0,Soups & hot beverages
+6,NOD,285,0.7640750670241286,Soups & hot beverages
+6,NSD,67,0.17962466487935658,Soups & hot beverages
+6,THINGS,11,0.029490616621983913,Soups & hot beverages
+6,deeprecon,0,0.0,Soups & hot beverages
+7,BMD,44,0.11282051282051282,People & portraits
+7,BOLD5000,3,0.007692307692307693,People & portraits
+7,GOD,1,0.002564102564102564,People & portraits
+7,NOD,264,0.676923076923077,People & portraits
+7,NSD,69,0.17692307692307693,People & portraits
+7,THINGS,7,0.017948717948717947,People & portraits
+7,deeprecon,2,0.005128205128205128,People & portraits
+8,BMD,0,0.0,Stone bridges & viaducts
+8,BOLD5000,0,0.0,Stone bridges & viaducts
+8,GOD,1,0.0055248618784530384,Stone bridges & viaducts
+8,NOD,162,0.8950276243093923,Stone bridges & viaducts
+8,NSD,17,0.09392265193370165,Stone bridges & viaducts
+8,THINGS,0,0.0,Stone bridges & viaducts
+8,deeprecon,1,0.0055248618784530384,Stone bridges & viaducts
+9,BMD,0,0.0,Coastal landscapes
+9,BOLD5000,4,0.011235955056179775,Coastal landscapes
+9,GOD,0,0.0,Coastal landscapes
+9,NOD,330,0.9269662921348315,Coastal landscapes
+9,NSD,21,0.05898876404494382,Coastal landscapes
+9,THINGS,1,0.0028089887640449437,Coastal landscapes
+9,deeprecon,0,0.0,Coastal landscapes
+10,BMD,0,0.0,Insects
+10,BOLD5000,3,0.0084985835694051,Insects
+10,GOD,2,0.0056657223796034,Insects
+10,NOD,346,0.9801699716713881,Insects
+10,NSD,0,0.0,Insects
+10,THINGS,2,0.0056657223796034,Insects
+10,deeprecon,0,0.0,Insects
+11,BMD,0,0.0,Home appliances
+11,BOLD5000,2,0.005050505050505051,Home appliances
+11,GOD,1,0.0025252525252525255,Home appliances
+11,NOD,392,0.98989898989899,Home appliances
+11,NSD,0,0.0,Home appliances
+11,THINGS,1,0.0025252525252525255,Home appliances
+11,deeprecon,0,0.0,Home appliances
+12,BMD,0,0.0,Textile accessories
+12,BOLD5000,4,0.008032128514056224,Textile accessories
+12,GOD,2,0.004016064257028112,Textile accessories
+12,NOD,484,0.9718875502008032,Textile accessories
+12,NSD,3,0.006024096385542169,Textile accessories
+12,THINGS,5,0.010040160642570281,Textile accessories
+12,deeprecon,0,0.0,Textile accessories
+13,BMD,0,0.0,Household containers & bins
+13,BOLD5000,0,0.0,Household containers & bins
+13,GOD,0,0.0,Household containers & bins
+13,NOD,242,1.0,Household containers & bins
+13,NSD,0,0.0,Household containers & bins
+13,THINGS,0,0.0,Household containers & bins
+13,deeprecon,0,0.0,Household containers & bins
+14,BMD,1,0.006024096385542169,Snakes
+14,BOLD5000,1,0.006024096385542169,Snakes
+14,GOD,1,0.006024096385542169,Snakes
+14,NOD,161,0.9698795180722891,Snakes
+14,NSD,0,0.0,Snakes
+14,THINGS,2,0.012048192771084338,Snakes
+14,deeprecon,0,0.0,Snakes
+15,BMD,0,0.0,Sailboats & sailing
+15,BOLD5000,1,0.002352941176470588,Sailboats & sailing
+15,GOD,0,0.0,Sailboats & sailing
+15,NOD,413,0.971764705882353,Sailboats & sailing
+15,NSD,10,0.023529411764705882,Sailboats & sailing
+15,THINGS,1,0.002352941176470588,Sailboats & sailing
+15,deeprecon,0,0.0,Sailboats & sailing
+16,BMD,0,0.0,Buses & trucks
+16,BOLD5000,2,0.007462686567164179,Buses & trucks
+16,GOD,1,0.0037313432835820895,Buses & trucks
+16,NOD,247,0.9216417910447762,Buses & trucks
+16,NSD,16,0.05970149253731343,Buses & trucks
+16,THINGS,2,0.007462686567164179,Buses & trucks
+16,deeprecon,0,0.0,Buses & trucks
+17,BMD,2,0.007326007326007326,Airplanes & aviation
+17,BOLD5000,2,0.007326007326007326,Airplanes & aviation
+17,GOD,0,0.0,Airplanes & aviation
+17,NOD,236,0.8644688644688645,Airplanes & aviation
+17,NSD,31,0.11355311355311355,Airplanes & aviation
+17,THINGS,1,0.003663003663003663,Airplanes & aviation
+17,deeprecon,1,0.003663003663003663,Airplanes & aviation
+18,BMD,0,0.0,Water towers
+18,BOLD5000,1,0.004545454545454545,Water towers
+18,GOD,0,0.0,Water towers
+18,NOD,209,0.95,Water towers
+18,NSD,9,0.04090909090909091,Water towers
+18,THINGS,1,0.004545454545454545,Water towers
+18,deeprecon,0,0.0,Water towers
+19,BMD,1,0.0028328611898017,Shorebirds & wading birds
+19,BOLD5000,2,0.0056657223796034,Shorebirds & wading birds
+19,GOD,0,0.0,Shorebirds & wading birds
+19,NOD,337,0.9546742209631728,Shorebirds & wading birds
+19,NSD,11,0.031161473087818695,Shorebirds & wading birds
+19,THINGS,0,0.0,Shorebirds & wading birds
+19,deeprecon,2,0.0056657223796034,Shorebirds & wading birds
+20,BMD,2,0.002176278563656148,Structural details & patterns
+20,BOLD5000,3,0.003264417845484222,Structural details & patterns
+20,GOD,2,0.002176278563656148,Structural details & patterns
+20,NOD,838,0.911860718171926,Structural details & patterns
+20,NSD,10,0.01088139281828074,Structural details & patterns
+20,THINGS,14,0.015233949945593036,Structural details & patterns
+20,deeprecon,50,0.0544069640914037,Structural details & patterns
+21,BMD,3,0.016129032258064516,Baseball
+21,BOLD5000,2,0.010752688172043012,Baseball
+21,GOD,0,0.0,Baseball
+21,NOD,154,0.8279569892473119,Baseball
+21,NSD,26,0.13978494623655913,Baseball
+21,THINGS,0,0.0,Baseball
+21,deeprecon,1,0.005376344086021506,Baseball
+22,BMD,0,0.0,Trains & rail transport
+22,BOLD5000,4,0.017937219730941704,Trains & rail transport
+22,GOD,0,0.0,Trains & rail transport
+22,NOD,183,0.820627802690583,Trains & rail transport
+22,NSD,36,0.16143497757847533,Trains & rail transport
+22,THINGS,0,0.0,Trains & rail transport
+22,deeprecon,0,0.0,Trains & rail transport
+23,BMD,0,0.0,Emergency vehicles
+23,BOLD5000,1,0.008,Emergency vehicles
+23,GOD,0,0.0,Emergency vehicles
+23,NOD,123,0.984,Emergency vehicles
+23,NSD,1,0.008,Emergency vehicles
+23,THINGS,0,0.0,Emergency vehicles
+23,deeprecon,0,0.0,Emergency vehicles
+24,BMD,1,0.002717391304347826,Bridges & urban infrastructure
+24,BOLD5000,6,0.016304347826086956,Bridges & urban infrastructure
+24,GOD,0,0.0,Bridges & urban infrastructure
+24,NOD,287,0.779891304347826,Bridges & urban infrastructure
+24,NSD,73,0.1983695652173913,Bridges & urban infrastructure
+24,THINGS,1,0.002717391304347826,Bridges & urban infrastructure
+24,deeprecon,0,0.0,Bridges & urban infrastructure
+25,BMD,0,0.0,Religious architecture
+25,BOLD5000,1,0.0030303030303030303,Religious architecture
+25,GOD,1,0.0030303030303030303,Religious architecture
+25,NOD,314,0.9515151515151515,Religious architecture
+25,NSD,13,0.03939393939393939,Religious architecture
+25,THINGS,0,0.0,Religious architecture
+25,deeprecon,1,0.0030303030303030303,Religious architecture
+26,BMD,0,0.0,Libraries & auditoriums
+26,BOLD5000,9,0.0297029702970297,Libraries & auditoriums
+26,GOD,2,0.006600660066006601,Libraries & auditoriums
+26,NOD,273,0.900990099009901,Libraries & auditoriums
+26,NSD,18,0.0594059405940594,Libraries & auditoriums
+26,THINGS,1,0.0033003300330033004,Libraries & auditoriums
+26,deeprecon,0,0.0,Libraries & auditoriums
+27,BMD,2,0.005681818181818182,Zebras
+27,BOLD5000,5,0.014204545454545454,Zebras
+27,GOD,1,0.002840909090909091,Zebras
+27,NOD,206,0.5852272727272727,Zebras
+27,NSD,136,0.38636363636363635,Zebras
+27,THINGS,2,0.005681818181818182,Zebras
+27,deeprecon,0,0.0,Zebras
+28,BMD,0,0.0,Ceramics & tableware
+28,BOLD5000,1,0.0035842293906810036,Ceramics & tableware
+28,GOD,3,0.010752688172043012,Ceramics & tableware
+28,NOD,267,0.956989247311828,Ceramics & tableware
+28,NSD,4,0.014336917562724014,Ceramics & tableware
+28,THINGS,4,0.014336917562724014,Ceramics & tableware
+28,deeprecon,0,0.0,Ceramics & tableware
+29,BMD,0,0.0,Flowers
+29,BOLD5000,2,0.00847457627118644,Flowers
+29,GOD,0,0.0,Flowers
+29,NOD,230,0.9745762711864406,Flowers
+29,NSD,2,0.00847457627118644,Flowers
+29,THINGS,1,0.00423728813559322,Flowers
+29,deeprecon,1,0.00423728813559322,Flowers
+30,BMD,15,0.05154639175257732,Skiing & snow sports
+30,BOLD5000,5,0.01718213058419244,Skiing & snow sports
+30,GOD,2,0.006872852233676976,Skiing & snow sports
+30,NOD,119,0.40893470790378006,Skiing & snow sports
+30,NSD,148,0.5085910652920962,Skiing & snow sports
+30,THINGS,2,0.006872852233676976,Skiing & snow sports
+30,deeprecon,0,0.0,Skiing & snow sports
+31,BMD,1,0.0047169811320754715,Classic vehicles
+31,BOLD5000,3,0.014150943396226415,Classic vehicles
+31,GOD,0,0.0,Classic vehicles
+31,NOD,203,0.9575471698113207,Classic vehicles
+31,NSD,4,0.018867924528301886,Classic vehicles
+31,THINGS,1,0.0047169811320754715,Classic vehicles
+31,deeprecon,0,0.0,Classic vehicles
+32,BMD,0,0.0,Toiletries & personal care
+32,BOLD5000,1,0.0037735849056603774,Toiletries & personal care
+32,GOD,1,0.0037735849056603774,Toiletries & personal care
+32,NOD,263,0.9924528301886792,Toiletries & personal care
+32,NSD,0,0.0,Toiletries & personal care
+32,THINGS,0,0.0,Toiletries & personal care
+32,deeprecon,0,0.0,Toiletries & personal care
+33,BMD,1,0.004424778761061947,Tennis action
+33,BOLD5000,3,0.01327433628318584,Tennis action
+33,GOD,0,0.0,Tennis action
+33,NOD,184,0.8141592920353983,Tennis action
+33,NSD,38,0.168141592920354,Tennis action
+33,THINGS,0,0.0,Tennis action
+33,deeprecon,0,0.0,Tennis action
+34,BMD,0,0.0,Citrus & fruit
+34,BOLD5000,4,0.011594202898550725,Citrus & fruit
+34,GOD,0,0.0,Citrus & fruit
+34,NOD,311,0.9014492753623189,Citrus & fruit
+34,NSD,22,0.06376811594202898,Citrus & fruit
+34,THINGS,8,0.02318840579710145,Citrus & fruit
+34,deeprecon,0,0.0,Citrus & fruit
+35,BMD,0,0.0,Rural fields
+35,BOLD5000,3,0.011494252873563218,Rural fields
+35,GOD,1,0.0038314176245210726,Rural fields
+35,NOD,240,0.9195402298850575,Rural fields
+35,NSD,16,0.06130268199233716,Rural fields
+35,THINGS,0,0.0,Rural fields
+35,deeprecon,1,0.0038314176245210726,Rural fields
+36,BMD,1,0.0022371364653243847,Consumer electronics
+36,BOLD5000,1,0.0022371364653243847,Consumer electronics
+36,GOD,2,0.0044742729306487695,Consumer electronics
+36,NOD,421,0.941834451901566,Consumer electronics
+36,NSD,18,0.040268456375838924,Consumer electronics
+36,THINGS,3,0.006711409395973154,Consumer electronics
+36,deeprecon,1,0.0022371364653243847,Consumer electronics
+37,BMD,0,0.0,Tools & hardware
+37,BOLD5000,0,0.0,Tools & hardware
+37,GOD,3,0.004746835443037975,Tools & hardware
+37,NOD,623,0.9857594936708861,Tools & hardware
+37,NSD,1,0.0015822784810126582,Tools & hardware
+37,THINGS,4,0.006329113924050633,Tools & hardware
+37,deeprecon,1,0.0015822784810126582,Tools & hardware
+38,BMD,0,0.0,"Books, plaques & instruments"
+38,BOLD5000,0,0.0,"Books, plaques & instruments"
+38,GOD,0,0.0,"Books, plaques & instruments"
+38,NOD,292,0.9898305084745763,"Books, plaques & instruments"
+38,NSD,0,0.0,"Books, plaques & instruments"
+38,THINGS,1,0.003389830508474576,"Books, plaques & instruments"
+38,deeprecon,2,0.006779661016949152,"Books, plaques & instruments"
+39,BMD,0,0.0,Birds
+39,BOLD5000,2,0.005449591280653951,Birds
+39,GOD,2,0.005449591280653951,Birds
+39,NOD,350,0.9536784741144414,Birds
+39,NSD,11,0.02997275204359673,Birds
+39,THINGS,2,0.005449591280653951,Birds
+39,deeprecon,0,0.0,Birds

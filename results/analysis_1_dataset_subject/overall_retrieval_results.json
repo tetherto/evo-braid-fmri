@@ -1,0 +1,42 @@
+{
+  "n_row_candidates": 65395,
+  "n_unique_stimulus_candidates": 12819,
+  "topk": [
+    1,
+    5,
+    10
+  ],
+  "exact": {
+    "top1": 0.0007951678262864134,
+    "chance_top1": 1.529168896704641e-05,
+    "top5": 0.004495756556311644,
+    "chance_top5": 7.645844483523205e-05,
+    "top10": 0.009190305069194892,
+    "chance_top10": 0.0001529168896704641
+  },
+  "stimulus": {
+    "top1": 0.02952825139536662,
+    "approx_chance_top1": 1.529168896704641e-05,
+    "top5": 0.036103677651196577,
+    "approx_chance_top5": 7.645844483523205e-05,
+    "top10": 0.03784693019343986,
+    "approx_chance_top10": 0.0001529168896704641
+  },
+  "unique_stimulus": {
+    "top1": 0.02952825139536662,
+    "chance_top1": 7.800920508620017e-05,
+    "top5": 0.09766801743252543,
+    "chance_top5": 0.00039004602543100085,
+    "top10": 0.15369676580778346,
+    "chance_top10": 0.0007800920508620017
+  },
+  "rank_exact_mean": 6206.691383133267,
+  "rank_exact_median": 2347.0,
+  "rank_stimulus_mean": 6206.691383133267,
+  "rank_stimulus_median": 2347.0,
+  "rank_unique_stimulus_mean": 1740.7039834849759,
+  "rank_unique_stimulus_median": 220.0,
+  "dataset_filter": null,
+  "subject_filter": null,
+  "checkpoint_path": "/mount/share/moein/MOSAIC/mosaic_roi_mae_runs/checkpoints_multitask_mae_clip/MT-datasetNonesubjectNonebatchsize256lr0.0001Wdecay0.001emb_dim512-encdepth4-decdepth0-numHeads4-dropout0.1-poolingattention-ContlossModeinfonce-infonce_w0.1-maeFalse-mae_weight0.03-mask_ratio0.3-visibleLossW0.0-multipositiveTrue-epoch001.ckpt"
+}
